@@ -1,7 +1,7 @@
 # Pure-Grid
 A simple, bootstrap-like responsive grid system.
 
-Encase '.col' divs in "<div class='container'>".
+Encase '.col' divs in "&lt;div class='container'&rt;".
 
 '.col' divs must have the class '.col' and a size value.
 
